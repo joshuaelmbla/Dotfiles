@@ -1,0 +1,8 @@
+configuration {
+    font: "Roboto Condensed 16";
+}
+
+@theme "/home/joshuaelm/.config/rofi/themes/nord.rasi"
+
+
+
